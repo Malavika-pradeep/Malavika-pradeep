@@ -2,8 +2,8 @@
 
 
 👩‍💻 Computer Science Student<br/>
-🪢 Currently a research intern<br/>
-🔭 I’m currently working on LLMs and RAGs<br/>
+🪢 Currently a Research Intern<br/>
+🔭 Working on LLMs and RAGs<br/>
 🧠 Intereseted in Cogntive and Brain Computing
 
 
