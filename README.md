@@ -1,9 +1,9 @@
 ## Hi I'm Malavika  👋
 
 
-👩‍💻 Computer Science Student
-🪢 Currently a research intern
-🔭 I’m currently working on LLMs and RAGs
+👩‍💻 Computer Science Student<br/>
+🪢 Currently a research intern<br/>
+🔭 I’m currently working on LLMs and RAGs<br/>
 🧠 Intereseted in Cogntive and Brain Computing
 
 
