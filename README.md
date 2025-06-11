@@ -4,7 +4,7 @@
 👩‍💻 Computer Science Student<br/>
 🪢 Currently a Research Intern<br/>
 🔭 Working on LLMs and RAGs<br/>
-🧠 Intereseted in Cogntive and Brain Computing
+🧠 Keen interest and talks on Cogntive and Brain Computing
 
 
 # 💻 Tech Stack:
