@@ -22,11 +22,6 @@ I'm a passionate web developer helping businesses and startups craft fast, scala
 - Optimize for performance & scalability
 
   
-📊 *Most Used Languages*  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyashrma18&layout=compact&theme=tokyonight" />
-</p>
-
 
 📫 *Let’s Connect*  
 [📧 Email Me](mailto:malavikapradeep2001@gmail.com) • [💼 LinkedIn](https://www.linkedin.com/in/malavika-pradeep-/)
