@@ -4,7 +4,8 @@
 ---
 
 🚀 *About Me*  
-I'm a passionate web developer helping businesses and startups craft fast, scalable, and modern digital products. From clean frontend interfaces to solid backend systems — I build end-to-end solutions that work, perform, and scale.
+I'm a passionate AI developer intrested in building intelligent, scalable, and high-performance solutions. From deep learning models to computer vision and machine learning systems — I design and deploy end-to-end AI products that learn, adapt, and deliver real-world impact.
+
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif"/>
 </p>
